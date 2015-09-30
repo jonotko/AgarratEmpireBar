@@ -1,0 +1,9 @@
+.aboutstyle h1{
+    text-align: center;
+    text-decoration: underline;
+    text-transform:uppercase;
+}
+
+.aboutstyle h2{
+    text-align: center;
+}
